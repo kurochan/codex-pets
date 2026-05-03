@@ -1,0 +1,6 @@
+{
+  "id": "kurochan",
+  "displayName": "kurochan",
+  "description": "A tiny Codex pet based on the user's hand-drawn kurochan character.",
+  "spritesheetPath": "spritesheet.webp"
+}
